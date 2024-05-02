@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8704e991bfee49e285b7d5e2a8b9f46a/artifacts
+end_time: 1714607300825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8704e991bfee49e285b7d5e2a8b9f46a
+run_name: hilarious-shoat-493
+run_uuid: 8704e991bfee49e285b7d5e2a8b9f46a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714607299095
+status: 4
+tags: []
+user_id: ismail

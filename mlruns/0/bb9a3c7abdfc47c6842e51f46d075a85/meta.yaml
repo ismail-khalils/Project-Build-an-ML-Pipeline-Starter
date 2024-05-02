@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bb9a3c7abdfc47c6842e51f46d075a85/artifacts
+end_time: 1714614391893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb9a3c7abdfc47c6842e51f46d075a85
+run_name: treasured-sheep-353
+run_uuid: bb9a3c7abdfc47c6842e51f46d075a85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714614390718
+status: 4
+tags: []
+user_id: ismail

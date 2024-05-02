@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a725237a9f904f86864b441f66f44a6b/artifacts
+end_time: 1714608737992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a725237a9f904f86864b441f66f44a6b
+run_name: nosy-toad-64
+run_uuid: a725237a9f904f86864b441f66f44a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714608627865
+status: 4
+tags: []
+user_id: ismail

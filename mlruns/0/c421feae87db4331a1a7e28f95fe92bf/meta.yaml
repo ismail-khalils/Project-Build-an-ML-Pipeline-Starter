@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c421feae87db4331a1a7e28f95fe92bf/artifacts
+end_time: 1714615709022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c421feae87db4331a1a7e28f95fe92bf
+run_name: stately-colt-29
+run_uuid: c421feae87db4331a1a7e28f95fe92bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714615657477
+status: 3
+tags: []
+user_id: ismail

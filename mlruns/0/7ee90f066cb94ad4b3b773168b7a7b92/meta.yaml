@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7ee90f066cb94ad4b3b773168b7a7b92/artifacts
+end_time: 1714599332118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ee90f066cb94ad4b3b773168b7a7b92
+run_name: bittersweet-koi-561
+run_uuid: 7ee90f066cb94ad4b3b773168b7a7b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714599327288
+status: 4
+tags: []
+user_id: ismail

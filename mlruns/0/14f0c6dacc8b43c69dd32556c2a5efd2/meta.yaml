@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14f0c6dacc8b43c69dd32556c2a5efd2/artifacts
+end_time: 1714587954987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f0c6dacc8b43c69dd32556c2a5efd2
+run_name: silent-bear-510
+run_uuid: 14f0c6dacc8b43c69dd32556c2a5efd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714587941415
+status: 3
+tags: []
+user_id: ismail

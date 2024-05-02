@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00cfccafcb4943a391b7894fd7133a00/artifacts
+end_time: 1714599331834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00cfccafcb4943a391b7894fd7133a00
+run_name: capricious-cat-42
+run_uuid: 00cfccafcb4943a391b7894fd7133a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714599330203
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/992164ec50764233b9359117f292d1ef/artifacts
+end_time: 1714599027122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 992164ec50764233b9359117f292d1ef
+run_name: trusting-hound-165
+run_uuid: 992164ec50764233b9359117f292d1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714599020704
+status: 4
+tags: []
+user_id: ismail

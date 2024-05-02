@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/ismail/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 298, in <module>
+    go(args)
+  File "/home/ismail/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 50, in go
+    rf_config = json.load(fp)
+  File "/home/ismail/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/home/ismail/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/home/ismail/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/home/ismail/miniconda3/envs/mlflow-da93339ed90e31f137db8dabdae14e69a71f1301/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

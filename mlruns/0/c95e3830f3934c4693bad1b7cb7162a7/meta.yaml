@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c95e3830f3934c4693bad1b7cb7162a7/artifacts
+end_time: 1714612976916
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c95e3830f3934c4693bad1b7cb7162a7
+run_name: luxuriant-fish-104
+run_uuid: c95e3830f3934c4693bad1b7cb7162a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714612975848
+status: 4
+tags: []
+user_id: ismail

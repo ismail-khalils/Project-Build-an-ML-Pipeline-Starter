@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5813cdba74a54b918681ba1535ccdd04/artifacts
+end_time: 1714587954785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5813cdba74a54b918681ba1535ccdd04
+run_name: magnificent-bee-795
+run_uuid: 5813cdba74a54b918681ba1535ccdd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714587943752
+status: 3
+tags: []
+user_id: ismail

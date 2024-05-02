@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fc5c07b3835c4ae4b68a9063382c3e91/artifacts
+end_time: 1714612923432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc5c07b3835c4ae4b68a9063382c3e91
+run_name: rogue-steed-598
+run_uuid: fc5c07b3835c4ae4b68a9063382c3e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714612922136
+status: 4
+tags: []
+user_id: ismail

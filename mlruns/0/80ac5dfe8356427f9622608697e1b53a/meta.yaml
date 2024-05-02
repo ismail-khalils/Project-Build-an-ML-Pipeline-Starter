@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/80ac5dfe8356427f9622608697e1b53a/artifacts
+end_time: 1714613301839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80ac5dfe8356427f9622608697e1b53a
+run_name: learned-skunk-907
+run_uuid: 80ac5dfe8356427f9622608697e1b53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714613300768
+status: 4
+tags: []
+user_id: ismail

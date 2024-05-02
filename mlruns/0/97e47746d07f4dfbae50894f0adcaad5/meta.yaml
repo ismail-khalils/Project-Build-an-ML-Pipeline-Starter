@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/97e47746d07f4dfbae50894f0adcaad5/artifacts
+end_time: 1714607671309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97e47746d07f4dfbae50894f0adcaad5
+run_name: nimble-gnu-418
+run_uuid: 97e47746d07f4dfbae50894f0adcaad5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714607666353
+status: 4
+tags: []
+user_id: ismail

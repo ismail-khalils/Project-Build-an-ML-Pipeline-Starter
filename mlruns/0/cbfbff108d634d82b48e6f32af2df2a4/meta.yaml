@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cbfbff108d634d82b48e6f32af2df2a4/artifacts
+end_time: 1714607671012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbfbff108d634d82b48e6f32af2df2a4
+run_name: useful-sloth-131
+run_uuid: cbfbff108d634d82b48e6f32af2df2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714607669330
+status: 4
+tags: []
+user_id: ismail

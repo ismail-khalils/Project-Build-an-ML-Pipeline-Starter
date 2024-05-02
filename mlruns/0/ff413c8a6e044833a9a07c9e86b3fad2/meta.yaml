@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff413c8a6e044833a9a07c9e86b3fad2/artifacts
+end_time: 1714598697958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff413c8a6e044833a9a07c9e86b3fad2
+run_name: gifted-duck-790
+run_uuid: ff413c8a6e044833a9a07c9e86b3fad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714598696636
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a18fe3b5c9a54348bd0516fb6daf1d60/artifacts
+end_time: 1714618370994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18fe3b5c9a54348bd0516fb6daf1d60
+run_name: serious-grouse-358
+run_uuid: a18fe3b5c9a54348bd0516fb6daf1d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714618286388
+status: 4
+tags: []
+user_id: ismail

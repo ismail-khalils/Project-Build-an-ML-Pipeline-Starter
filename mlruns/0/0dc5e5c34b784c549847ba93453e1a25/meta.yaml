@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0dc5e5c34b784c549847ba93453e1a25/artifacts
+end_time: 1714587581972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dc5e5c34b784c549847ba93453e1a25
+run_name: fearless-hound-511
+run_uuid: 0dc5e5c34b784c549847ba93453e1a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714587530439
+status: 4
+tags: []
+user_id: ismail

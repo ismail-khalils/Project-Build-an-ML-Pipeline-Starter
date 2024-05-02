@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b2495d5a6df84668a2c91ac6f3cb8cdb/artifacts
+end_time: 1714614516567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2495d5a6df84668a2c91ac6f3cb8cdb
+run_name: legendary-calf-814
+run_uuid: b2495d5a6df84668a2c91ac6f3cb8cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714614515409
+status: 4
+tags: []
+user_id: ismail

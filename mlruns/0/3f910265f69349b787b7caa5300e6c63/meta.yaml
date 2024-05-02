@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3f910265f69349b787b7caa5300e6c63/artifacts
+end_time: 1714614588745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f910265f69349b787b7caa5300e6c63
+run_name: bemused-fowl-46
+run_uuid: 3f910265f69349b787b7caa5300e6c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714614587661
+status: 4
+tags: []
+user_id: ismail

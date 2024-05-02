@@ -1,0 +1,64 @@
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for post_run_cell), with arguments args (<ExecutionResult object at 7fa6e82bdd90, execution_count=2 error_before_exec=None error_in_exec=None info=<ExecutionInfo object at 7fa6e82bd550, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=ae5c2cf2-0dfc-499e-a21e-b31886c886ad> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7fa6a9bed940, raw_cell="$ pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f>,),kwargs {}:
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for post_run_cell), with arguments args (<ExecutionResult object at 7fa6a9bed0a0, execution_count=3 error_before_exec=invalid syntax (3998926557.py, line 1) error_in_exec=None info=<ExecutionInfo object at 7fa6a9bed940, raw_cell="$ pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7fa6e82bdeb0, raw_cell="$pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f>,),kwargs {}:
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for post_run_cell), with arguments args (<ExecutionResult object at 7fa6e82bdaf0, execution_count=4 error_before_exec=invalid syntax (3139557414.py, line 1) error_in_exec=None info=<ExecutionInfo object at 7fa6e82bdeb0, raw_cell="$pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7fa6e82bde20, raw_cell="!pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f>,),kwargs {}:
+Requirement already satisfied: wandb in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (0.13.9)
+Collecting wandb
+  Downloading wandb-0.16.6-py3-none-any.whl (2.2 MB)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     |████████████████████████████████| 2.2 MB 41 kB/s
+[?25hRequirement already satisfied: requests<3,>=2.0.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (2.28.2)
+Requirement already satisfied: docker-pycreds>=0.4.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (0.4.0)
+Requirement already satisfied: appdirs>=1.4.3 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (1.4.4)
+Requirement already satisfied: psutil>=5.0.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (5.9.8)
+Requirement already satisfied: setproctitle in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (1.3.3)
+Requirement already satisfied: protobuf!=4.21.0,<5,>=3.15.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (4.21.12)
+Requirement already satisfied: typing-extensions in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (4.11.0)
+Requirement already satisfied: Click!=8.0.0,>=7.1 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (8.1.7)
+Requirement already satisfied: GitPython!=3.1.29,>=1.0.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (3.1.43)
+Requirement already satisfied: sentry-sdk>=1.0.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (2.0.1)
+Requirement already satisfied: setuptools in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (59.8.0)
+Requirement already satisfied: PyYAML in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from wandb) (6.0.1)
+Requirement already satisfied: six>=1.4.0 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from docker-pycreds>=0.4.0->wandb) (1.16.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from GitPython!=3.1.29,>=1.0.0->wandb) (4.0.11)
+Requirement already satisfied: smmap<6,>=3.0.1 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from gitdb<5,>=4.0.1->GitPython!=3.1.29,>=1.0.0->wandb) (5.0.0)
+Requirement already satisfied: idna<4,>=2.5 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from requests<3,>=2.0.0->wandb) (3.7)
+Requirement already satisfied: charset-normalizer<4,>=2 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from requests<3,>=2.0.0->wandb) (3.3.2)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from requests<3,>=2.0.0->wandb) (1.26.18)
+Requirement already satisfied: certifi>=2017.4.17 in /home/ismail/miniconda3/envs/nyc_airbnb_dev/lib/python3.9/site-packages (from requests<3,>=2.0.0->wandb) (2024.2.2)
+Installing collected packages: wandb
+  Attempting uninstall: wandb
+    Found existing installation: wandb 0.13.9
+    Uninstalling wandb-0.13.9:
+      Successfully uninstalled wandb-0.13.9
+Successfully installed wandb-0.16.6
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for post_run_cell), with arguments args (<ExecutionResult object at 7fa6e82bd910, execution_count=5 error_before_exec=None error_in_exec=None info=<ExecutionInfo object at 7fa6e82bde20, raw_cell="!pip install wandb --upgrade" store_history=True silent=False shell_futures=True cell_id=4a8bae68-8ce8-476b-b936-29e053a00e7f> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7fa6e8326dc0>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7fa6a9bed190, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=ae5c2cf2-0dfc-499e-a21e-b31886c886ad>,),kwargs {}:

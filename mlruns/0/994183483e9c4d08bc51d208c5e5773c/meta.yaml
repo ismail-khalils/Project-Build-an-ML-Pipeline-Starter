@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/994183483e9c4d08bc51d208c5e5773c/artifacts
+end_time: 1714608738318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 994183483e9c4d08bc51d208c5e5773c
+run_name: amazing-duck-893
+run_uuid: 994183483e9c4d08bc51d208c5e5773c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714608624915
+status: 4
+tags: []
+user_id: ismail

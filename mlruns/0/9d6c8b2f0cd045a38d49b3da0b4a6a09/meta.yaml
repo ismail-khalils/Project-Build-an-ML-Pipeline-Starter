@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d6c8b2f0cd045a38d49b3da0b4a6a09/artifacts
+end_time: 1714589086709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d6c8b2f0cd045a38d49b3da0b4a6a09
+run_name: honorable-trout-873
+run_uuid: 9d6c8b2f0cd045a38d49b3da0b4a6a09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714588972744
+status: 3
+tags: []
+user_id: ismail

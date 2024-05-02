@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a7dd44229fcf473cb1535ef19661ebab/artifacts
+end_time: 1714600225242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7dd44229fcf473cb1535ef19661ebab
+run_name: handsome-smelt-194
+run_uuid: a7dd44229fcf473cb1535ef19661ebab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714600219768
+status: 4
+tags: []
+user_id: ismail

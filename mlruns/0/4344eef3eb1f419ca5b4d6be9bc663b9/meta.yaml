@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4344eef3eb1f419ca5b4d6be9bc663b9/artifacts
+end_time: 1714585600968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4344eef3eb1f419ca5b4d6be9bc663b9
+run_name: colorful-lamb-677
+run_uuid: 4344eef3eb1f419ca5b4d6be9bc663b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714585549575
+status: 3
+tags: []
+user_id: ismail

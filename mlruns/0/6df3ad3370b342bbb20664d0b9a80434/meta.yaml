@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6df3ad3370b342bbb20664d0b9a80434/artifacts
+end_time: 1714615657285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df3ad3370b342bbb20664d0b9a80434
+run_name: crawling-ant-39
+run_uuid: 6df3ad3370b342bbb20664d0b9a80434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714615575091
+status: 3
+tags: []
+user_id: ismail

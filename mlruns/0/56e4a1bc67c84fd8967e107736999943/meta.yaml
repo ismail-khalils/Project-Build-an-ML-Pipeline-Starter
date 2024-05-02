@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56e4a1bc67c84fd8967e107736999943/artifacts
+end_time: 1714597411871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56e4a1bc67c84fd8967e107736999943
+run_name: wise-gull-531
+run_uuid: 56e4a1bc67c84fd8967e107736999943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714597410799
+status: 4
+tags: []
+user_id: ismail

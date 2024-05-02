@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/496b29258b44452fa605871707f9e866/artifacts
+end_time: 1714615574913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 496b29258b44452fa605871707f9e866
+run_name: receptive-gnat-212
+run_uuid: 496b29258b44452fa605871707f9e866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714615526984
+status: 3
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df07b16cbfe84db3858a21cf1840c3e4/artifacts
+end_time: 1714598036888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df07b16cbfe84db3858a21cf1840c3e4
+run_name: illustrious-kite-419
+run_uuid: df07b16cbfe84db3858a21cf1840c3e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714597926992
+status: 4
+tags: []
+user_id: ismail

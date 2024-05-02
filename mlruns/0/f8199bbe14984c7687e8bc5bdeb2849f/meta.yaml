@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f8199bbe14984c7687e8bc5bdeb2849f/artifacts
+end_time: 1714521394461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8199bbe14984c7687e8bc5bdeb2849f
+run_name: auspicious-ram-491
+run_uuid: f8199bbe14984c7687e8bc5bdeb2849f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714521254680
+status: 4
+tags: []
+user_id: ismail

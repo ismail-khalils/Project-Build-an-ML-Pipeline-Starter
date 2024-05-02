@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0cb558c1730147b68eafebbd56b13465/artifacts
+end_time: 1714526934303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cb558c1730147b68eafebbd56b13465
+run_name: powerful-lynx-897
+run_uuid: 0cb558c1730147b68eafebbd56b13465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714526659674
+status: 3
+tags: []
+user_id: ismail

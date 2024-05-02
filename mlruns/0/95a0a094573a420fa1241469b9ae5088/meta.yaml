@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/95a0a094573a420fa1241469b9ae5088/artifacts
+end_time: 1714613281815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95a0a094573a420fa1241469b9ae5088
+run_name: big-deer-972
+run_uuid: 95a0a094573a420fa1241469b9ae5088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714613280421
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00564cd0f90b4670914723001e24bb5d/artifacts
+end_time: 1714613229419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00564cd0f90b4670914723001e24bb5d
+run_name: peaceful-snake-496
+run_uuid: 00564cd0f90b4670914723001e24bb5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714613228280
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/796efb31c0084d8baf810944d6c3c37e/artifacts
+end_time: 1714589086509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 796efb31c0084d8baf810944d6c3c37e
+run_name: unique-yak-232
+run_uuid: 796efb31c0084d8baf810944d6c3c37e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714588976895
+status: 3
+tags: []
+user_id: ismail

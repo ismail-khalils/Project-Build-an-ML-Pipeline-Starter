@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c8c67e62e9b41d09492edf56bca822b/artifacts
+end_time: 1714597769479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8c67e62e9b41d09492edf56bca822b
+run_name: traveling-panda-862
+run_uuid: 6c8c67e62e9b41d09492edf56bca822b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714597768263
+status: 4
+tags: []
+user_id: ismail

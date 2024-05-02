@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c22a7afb3f194383b7d6cabdd65e87db/artifacts
+end_time: 1714612857124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c22a7afb3f194383b7d6cabdd65e87db
+run_name: enchanting-ray-989
+run_uuid: c22a7afb3f194383b7d6cabdd65e87db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714612855798
+status: 4
+tags: []
+user_id: ismail

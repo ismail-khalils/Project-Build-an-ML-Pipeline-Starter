@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e0e61ec86f648c095277440cfae995c/artifacts
+end_time: 1714600224935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e0e61ec86f648c095277440cfae995c
+run_name: invincible-shrimp-20
+run_uuid: 6e0e61ec86f648c095277440cfae995c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714600222996
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/93101f40b0714255a3f0df8c682f0fd2/artifacts
+end_time: 1714600840585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93101f40b0714255a3f0df8c682f0fd2
+run_name: fortunate-kite-197
+run_uuid: 93101f40b0714255a3f0df8c682f0fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714600838916
+status: 4
+tags: []
+user_id: ismail

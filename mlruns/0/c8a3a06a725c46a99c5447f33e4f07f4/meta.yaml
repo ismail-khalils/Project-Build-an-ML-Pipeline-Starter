@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c8a3a06a725c46a99c5447f33e4f07f4/artifacts
+end_time: 1714615488068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8a3a06a725c46a99c5447f33e4f07f4
+run_name: rebellious-fly-635
+run_uuid: c8a3a06a725c46a99c5447f33e4f07f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714615486825
+status: 3
+tags: []
+user_id: ismail

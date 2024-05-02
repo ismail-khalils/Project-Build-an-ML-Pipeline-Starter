@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b40978d36454124b63ee3eb4d8f1774/artifacts
+end_time: 1714598839158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b40978d36454124b63ee3eb4d8f1774
+run_name: honorable-croc-570
+run_uuid: 5b40978d36454124b63ee3eb4d8f1774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714598833492
+status: 4
+tags: []
+user_id: ismail

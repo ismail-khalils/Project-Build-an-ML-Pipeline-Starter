@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1ae99f414cc4847850e108690c06524/artifacts
+end_time: 1714614235709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ae99f414cc4847850e108690c06524
+run_name: salty-stag-357
+run_uuid: d1ae99f414cc4847850e108690c06524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714614234555
+status: 4
+tags: []
+user_id: ismail

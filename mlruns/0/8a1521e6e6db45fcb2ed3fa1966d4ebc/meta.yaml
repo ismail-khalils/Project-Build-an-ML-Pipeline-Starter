@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8a1521e6e6db45fcb2ed3fa1966d4ebc/artifacts
+end_time: 1714614251763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a1521e6e6db45fcb2ed3fa1966d4ebc
+run_name: debonair-duck-500
+run_uuid: 8a1521e6e6db45fcb2ed3fa1966d4ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714614250728
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ce6ffee6fced4fe5b768ee3be8ca9860/artifacts
+end_time: 1714610810788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce6ffee6fced4fe5b768ee3be8ca9860
+run_name: mercurial-crane-562
+run_uuid: ce6ffee6fced4fe5b768ee3be8ca9860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714610793280
+status: 4
+tags: []
+user_id: ismail

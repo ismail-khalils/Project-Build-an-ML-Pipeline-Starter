@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/db6a961253a04c2886c52b5fe66f5ab0/artifacts
+end_time: 1714613848919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db6a961253a04c2886c52b5fe66f5ab0
+run_name: crawling-pug-231
+run_uuid: db6a961253a04c2886c52b5fe66f5ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714613847703
+status: 4
+tags: []
+user_id: ismail

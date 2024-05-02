@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/04e0479059d24bda8ad0d830b334d9fa/artifacts
+end_time: 1714585601235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04e0479059d24bda8ad0d830b334d9fa
+run_name: intelligent-asp-526
+run_uuid: 04e0479059d24bda8ad0d830b334d9fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714585546330
+status: 3
+tags: []
+user_id: ismail

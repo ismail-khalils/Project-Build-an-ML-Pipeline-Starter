@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/117da36eeb694d2dbe83a24b8a1db227/artifacts
+end_time: 1714598838881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 117da36eeb694d2dbe83a24b8a1db227
+run_name: bright-wolf-226
+run_uuid: 117da36eeb694d2dbe83a24b8a1db227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714598836691
+status: 4
+tags: []
+user_id: ismail

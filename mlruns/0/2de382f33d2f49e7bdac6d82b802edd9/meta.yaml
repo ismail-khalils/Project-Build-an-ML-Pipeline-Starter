@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2de382f33d2f49e7bdac6d82b802edd9/artifacts
+end_time: 1714609975685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2de382f33d2f49e7bdac6d82b802edd9
+run_name: skittish-sloth-977
+run_uuid: 2de382f33d2f49e7bdac6d82b802edd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714609958403
+status: 4
+tags: []
+user_id: ismail

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/da6631942e1d407ca1f9a57a4e4a33b3/artifacts
+end_time: 1714609975396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da6631942e1d407ca1f9a57a4e4a33b3
+run_name: likeable-foal-620
+run_uuid: da6631942e1d407ca1f9a57a4e4a33b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714609961445
+status: 4
+tags: []
+user_id: ismail
