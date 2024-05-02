@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ismail/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6c35b1ece9bb4ab789cd57bed743ebec/artifacts
+end_time: 1714675341275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c35b1ece9bb4ab789cd57bed743ebec
+run_name: illustrious-rook-406
+run_uuid: 6c35b1ece9bb4ab789cd57bed743ebec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714675286936
+status: 3
+tags: []
+user_id: ismail
