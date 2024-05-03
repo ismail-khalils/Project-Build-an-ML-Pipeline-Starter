@@ -1,5 +1,5 @@
 # Links:
-https://wandb.ai/ismail-k?shareProfileType=copy
+https://wandb.ai/ismail-k/projects
 
 https://github.com/ismail-khalils/Project-Build-an-ML-Pipeline-Starter
 
